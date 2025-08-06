@@ -1,3 +1,3 @@
-# rag-with-llama2
+# End To End Advanced RAG Project with Llama2
 
 Built a Retrieval-Augmented Generation (RAG) application using Streamlit, LangChain, and ChatGroq’s LLMs (Mixtral, LLaMA 3). Integrated document loaders (PDF/Web), OpenAI/Ollama embeddings, FAISS and Cassandra vector databases, and real-time web UI. Enabled semantic search over long documents using chunking, embedding, retrieval, and context-aware answer generation. Implemented with Flask/Socket.IO and optimized for low-latency responses with prompt templates and caching.
